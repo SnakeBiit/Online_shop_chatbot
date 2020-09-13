@@ -3,7 +3,7 @@ The important parts of this project are:<br/>
 -UI(HTML,CSS,JAVASCRIPT,BOOTSTRAP for admin page)<br/>
 -BACKEND(PHP,MySql and JavaScript for the cart, i used localhost for storing the data and for displaying it in the cart)<br/>
 -chatbot(PHP,JAVASCRIPT- i used botUI(a javascript framework) for the bot's UI and PHP for the bot's backend)<br/>
-<br/>
+<br/>Site interface
 ![Site page](https://github.com/SnakeBiit/Online_shop_chatbot/blob/master/images/site.PNG)
 <br/>
 ![Admin page](https://github.com/SnakeBiit/Online_shop_chatbot/blob/master/images/admin.PNG)
